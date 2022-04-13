@@ -8,6 +8,5 @@
      - opencv
      - face_recognition
      - streamlit
-     - streamlit-webrtc
      - imutils
      - av
